@@ -1,29 +1,30 @@
 ---
 title: "Myfile"
+author: "Luana Francesconi"
 output: html_document
 date: "2023-05-02"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<center> ![Montagna bella](https://travel.thewom.it/content/uploads/sites/4/2022/09/montagna-a-settembre.jpeg){height=300px} </center>
 
-## R Markdown
+Elenco numerato:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+1. Gatto persiano
+2. Gatto siamese
+3. Gatto di Geoffrey
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Elenco puntato:
 
-```{r cars}
-summary(cars)
-```
+* Gatto domestico
+  * Gatto bello
+* Gatto selvatico
+  * Gatto brutto
+  
+Se
+scrivo
+così
+non
+va a capo
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Se scrivo così  
+sì!
