@@ -31,7 +31,7 @@ va a capo
 Se scrivo così  
 sì!
 
-<-- Commentare senza che venga stampato -->
+<!-- Commentare senza che venga stampato -->
 
 ```{r, echo=F}
 #questo non va stampato
